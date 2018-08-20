@@ -22,7 +22,7 @@ Latihan 10
 Latihan 11
 ![alt text](https://github.com/faarrelll/jobsheet1/blob/master/Latihan11.PNG)
 Tugas Praktikum 1
-![alt text](https://github.com/faarrelll/jobsheet1/blob/master/TugasPraktikum1.PNG)
+![alt text](https://github.com/faarrelll/jobsheet1/blob/master/TugasParktikum1.PNG)
 Tugas Praktikum 2
 ![alt text](https://github.com/faarrelll/jobsheet1/blob/master/TugasPraktikum2.PNG)
 Tugas Praktikum 3
