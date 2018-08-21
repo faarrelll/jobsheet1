@@ -55,3 +55,21 @@ Tugas Praktikum 2
 Tugas Praktikum 3
 
 ![alt text](https://github.com/faarrelll/jobsheet1/blob/master/TugasPraktikum3.PNG)
+
+Latihan 1 Modul Lanjutan
+
+![alt text](https://github.com/faarrelll/jobsheet1/blob/master/Latihan1%20modul%20lanjutan.PNG)
+
+Latihan 2 Modul Lanjutan
+
+![alt tect](https://github.com/faarrelll/jobsheet1/blob/master/latihan%202%20modul%20lanjutan.PNG)
+
+Latihan 3 Modul Lanjutan
+
+![alt text](https://github.com/faarrelll/jobsheet1/blob/master/latihan%203%20modul%20lanjutan.PNG)
+
+Latihan 4 Modul Lanjutan
+
+![alt text](https://github.com/faarrelll/jobsheet1/blob/master/latihan%204%20modul%20lanjutan.PNG)
+
+
